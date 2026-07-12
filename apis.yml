@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://colormind.io/api-access/
 common:
+  - type: DomainSecurity
+    url: security/colormind-domain-security.yml
   - type: Website
     url: http://colormind.io/api-access/
   - type: PublicAPIsListing
