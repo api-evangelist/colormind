@@ -39,7 +39,8 @@ apis:
   - name: Colormind
     description: "Color scheme generator"
     humanURL: http://colormind.io/api-access/
-    tags:
+    tags: []
+    tags_raw:
       - Art And Design
     properties:
       - type: Documentation
